@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeKind</string>
+    <string name="coffee_name">Nama Jenis Kopi</string>
+    <string name="coffee_desc">Deskripsi Kopi</string>
+    <string name="profile_name">Ahmad Muhaemin</string>
+    <string name="account">Account</string>
+    <string name="email">amuhaemin55@gmail.com</string>
+    <string name="data_received">""</string>
+    <string name="kopi_tubruk">Kopi Tubruk</string>
+    <string name="desc_tubruk">
+            \t\tKopi tubruk adalah minuman kopi dari Indonesia yang dibuat dengan mendidihkan biji kopi bersama dengan gula.
+            Kopi ini memiliki kesamaan dengan kopi dari Turki dan Yunani dalam hal kepekatannya. Kopi tubruk cukup populer di Pulau Jawa dan Bali.
+            Resep dari kopi tubruk ini dibawa oleh pedagang dari Timur Tengah ke Indonesia.\n\n
+            \t\tDi Timur Tengah, kopi tubruk ini dikenal sebagai "kopi lumpur. Kopi tubruk merupakan cara termudah dalam menghidangkan kopi. Variasi lain dari kopi tubruk adalah kopi susu yang dibuat dengan menambahkan susu kental manis. Salah satu variasi yang kurang terkenal dari kopi ini adalah yang dicampur dengan jus avokad.\n
+            \tKopi tubruk ini umumnya diminum bersama dengan pisang goreng. Hal utama yang harus diperhatikan dalam membuat kopi tubruk adalah air yang digunakan haruslah benar-benar panas karena apabila tidak maka akan ada biji kopi yang tersisa.</string>
+</resources>
